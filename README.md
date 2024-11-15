@@ -8,7 +8,6 @@ Welcome to my brain dump! I'm a **Computer Science & Business Administration Dou
 
 - 🔭 Currently working as a **Backend Software Engineer Intern** at **SunLife Financial**.
 - 🌱 Actively learning **Kafka**, **Kubernetes**, and advanced **system design**.
-- 📍 Located in Toronto, Canada.
 - 💬 Passionate about **Machine Learning**, **Artificail Intelligence**, and **Backend Development**.
 
 ---
