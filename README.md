@@ -17,7 +17,7 @@ Welcome to my brain dump! I'm a **Computer Science & Business Administration Dou
 
 - **Languages**: Java, Python, C++, C, JavaScript, SQL, HTML, CSS
 - **Frameworks/Technologies**: Spring Boot, React, Kafka, Jenkins, Docker, Kubernetes, OpenShift
-- **Tools**: Git, Jira, SonarQube, MongoDB, MySQL, Linux
+- **Tools**: Git, Jira, OpenShift, SonarQube, MongoDB, MySQL, Linux
 - **Cloud/CI-CD**: Jenkins pipelines, container orchestration, and deployments with OpenShift.
 
 ---
@@ -34,7 +34,7 @@ Welcome to my brain dump! I'm a **Computer Science & Business Administration Dou
 
 ### [Mortalscape](https://github.com/Waleed-Ghufran/Mortalscape)
 - **Tech Stack**: Python, Tkinter, Pygame, Photoshop
-- **Description**: A Python-based game utilizing Tkinter for graphics and Pygame for interactive gameplay mechanics. Includes building challanging obstacle courses and then allows you to play.
+- **Description**: A Python-based game utilizing Tkinter for graphics and Pygame for interactive gameplay mechanics. Includes building challanging obstacle courses and then allows you to play through them.
 
 
 ### [More Projects](https://github.com/Waleed-Ghufran?tab=repositories)
@@ -51,4 +51,4 @@ Explore more of my work, including personal and collaborative repositories.
 
 ## 🏆 Fun Fact
 
-I enjoy solving puzzles and brain teasers, playing sports and cutting hair (I'm WGBlendz btw lol).
+I enjoy solving puzzles and brain teasers, playing sports and cutting hair (I'm WG Blendz btw lol).
