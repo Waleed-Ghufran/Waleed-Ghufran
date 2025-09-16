@@ -27,7 +27,7 @@ Welcome to my brain dump! I'm a **Computer Science & Business Administration Dou
 - **Tech Stack**: JavaScript, React, Node.js, Java, Spring Boot, MongoDB
 - **Description**: A full-stack barbershop booking website designed for seamless appointment scheduling. Includes a secure backend with real-time updates and intuitive UI for over 100+ users.
 
-### [Hotel Management Relational Database](https://github.com/Waleed-Ghufran/Hotel-Management-Relational-Database)
+### [AI Book Recommender System](https://github.com/Waleed-Ghufran/AI-Book-Recommender-System)
 - **Tech Stack**: MySQL, Python, Oracle
 - **Description**: Developed an end-to-end hotel database management system with ER diagrams, normalized structure, and Python integration for enhanced operations.
 
