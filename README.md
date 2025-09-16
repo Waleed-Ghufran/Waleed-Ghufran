@@ -6,8 +6,8 @@
 
 Welcome to my brain dump! I'm a **Computer Science & Business Administration Double Degree student** at Wilfrid Laurier University, graduating in **April 2026**. With over a year of experience in software engineering internships, I've developed robust backend systems, improved application performance, and contributed to scalable solutions for real-world challenges.
 
-- 🔭 Currently working as a **Backend Software Engineer Intern** at **SunLife Financial**.
-- 🌱 Actively learning **Kafka**, **Kubernetes**, and advanced **system design**.
+- 🔭 Currently working as a **Platform Software Engineer Intern** at **CrowdStrike**.
+- 🌱 Actively learning **MCP**, **Kubernetes**, and advanced **system design**.
 - 💬 Passionate about **Machine Learning**, **Artificail Intelligence**, and **Backend Development**.
 
 ---
